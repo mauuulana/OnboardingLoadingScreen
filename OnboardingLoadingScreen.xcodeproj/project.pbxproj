@@ -13,6 +13,7 @@
 		D945A26D2530A1F90062AFAB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D945A26B2530A1F90062AFAB /* Main.storyboard */; };
 		D945A26F2530A1FB0062AFAB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D945A26E2530A1FB0062AFAB /* Assets.xcassets */; };
 		D945A2722530A1FB0062AFAB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D945A2702530A1FB0062AFAB /* LaunchScreen.storyboard */; };
+		D99E01C62531080900296014 /* CustomHorizontalProgressBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = D99E01C52531080900296014 /* CustomHorizontalProgressBar.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D945A26E2530A1FB0062AFAB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D945A2712530A1FB0062AFAB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D945A2732530A1FB0062AFAB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D99E01C52531080900296014 /* CustomHorizontalProgressBar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomHorizontalProgressBar.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				D945A2652530A1F90062AFAB /* AppDelegate.swift */,
 				D945A2672530A1F90062AFAB /* SceneDelegate.swift */,
+				D99E01C52531080900296014 /* CustomHorizontalProgressBar.swift */,
 				D945A2692530A1F90062AFAB /* ViewController.swift */,
 				D945A26B2530A1F90062AFAB /* Main.storyboard */,
 				D945A26E2530A1FB0062AFAB /* Assets.xcassets */,
@@ -140,6 +143,7 @@
 				D945A26A2530A1F90062AFAB /* ViewController.swift in Sources */,
 				D945A2662530A1F90062AFAB /* AppDelegate.swift in Sources */,
 				D945A2682530A1F90062AFAB /* SceneDelegate.swift in Sources */,
+				D99E01C62531080900296014 /* CustomHorizontalProgressBar.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
